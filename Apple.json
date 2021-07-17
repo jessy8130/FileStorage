@@ -1,4 +1,5 @@
 {
+"iphone" :{
     "i12pro": {
         "model": {
             "item": "iPhone 12 Pro",
@@ -84,6 +85,41 @@
                 "price": "NT$ 48,400"
             }
         ]
+      }
     }
+"ipad" :{
+    "ipad": {
+        "model": {
+            "item": "iPad",
+            "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2020-hero-landing?wid=372&hei=606&fmt=jpeg&qlt=95&.v=1598913494000"
+        },
+        "appearance": [
+            {
+                "color": "太空灰",
+                "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-spacegray-201903?wid=102&amp;hei=102&amp;fmt=png-alpha&amp;.v=1552422652805",
+                "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2020-hero-space-wifi-select?wid=470&hei=556&fmt=png-alpha&.v=1598915064000"
+            },
+            {
+                "color": "銀色",
+                "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-silver-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054548000",
+                "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2020-hero-silver-wifi-select?wid=470&hei=556&fmt=png-alpha&.v=1598915073000"
+            },
+            {
+                "color": "金色",
+                "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-gold-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054548000",
+                "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2020-hero-gold-wifi-select?wid=470&hei=556&fmt=png-alpha&.v=1598915069000"
+            }
+        ],
+        "storage": [
+            {
+                "gb": "32 GB²",
+                "price": "NT$ 10,500"
+            },
+            {
+                "gb": "128 GB²",
+                "price": "NT$ 13,500"
+            }
+        ]
+    }
+}    
 }
-
