@@ -3,27 +3,32 @@
         "i12pro": {
             "model": {
                 "item": "iPhone 12 Pro",
+                "desc" : "6.1 吋顯示器¹",
                 "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-family-hero-all?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1604021662000",
                 "price": "NT$33,900"
             },
             "appearance": [
                 {
                     "color": "石磨色",
+                    "cEng":"graphite",
                     "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-graphite-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054548000",
                     "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000"
                 },
                 {
                     "color": "銀色",
+                    "cEng":"sliver",
                     "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-silver-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054548000",
                     "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000"
                 },
                 {
                     "color": "金色",
+                    "cEng":"gold",
                     "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-gold-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054548000",
                     "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021659000"
                 },
                 {
                     "color": "太平洋藍色",
+                    "cEng":"blue",
                     "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-blue-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054547000",
                     "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000"
                 }
@@ -46,29 +51,34 @@
         "i12promax": {
             "model": {
                 "item": "iPhone 12 Pro Max",
+                "desc" : "6.7 吋顯示器¹",
                 "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-family-hero-all?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1604021663000",
                 "price": "NT$37,900"
             },
             "appearance": [
                 {
                     "color": "石磨色",
+                    "cEng":"graphite",
                     "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-graphite-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054548000",
-                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-graphite-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000"
                 },
                 {
                     "color": "銀色",
+                    "cEng":"sliver",
                     "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-silver-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054548000",
-                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-silver-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000"
                 },
                 {
                     "color": "金色",
+                    "cEng":"gold",
                     "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-gold-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054548000",
-                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021660000"
+                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-gold-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021659000"
                 },
                 {
                     "color": "太平洋藍色",
+                    "cEng":"blue",
                     "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-blue-2020?wid=102&hei=102&fmt=jpeg&qlt=95&.v=1601054547000",
-                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-max-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021658000"
+                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=470&hei=556&fmt=png-alpha&.v=1604021661000"
                 }
             ],
             "storage": [
