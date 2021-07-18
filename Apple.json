@@ -110,16 +110,29 @@
                     "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-2020-hero-gold-wifi-select?wid=470&hei=556&fmt=png-alpha&.v=1598915069000"
                 }
             ],
-            "storage": [
+            "storage": 
+            {
+                "32":
                 {
-                    "gb": "32 GB²",
-                    "price": "NT$ 10,500"
+                    "item" : "32 GB²",
+                    "price": "NT$ 9,900",
+                    "connectivity" :
+                    [
+                        {"connect":"Wi-Fi", "price": "NT$ 9,900"},
+                        {"connect":"Wi-Fi + 行動網路", "price": "NT$ 14,200"}
+                    ]
                 },
+                "128":
                 {
-                    "gb": "128 GB²",
-                    "price": "NT$ 13,500"
+                    "item" : "128 GB²",
+                    "price": "NT$ 12,900",
+                    "connectivity" :
+                    [
+                        {"connect":"Wi-Fi", "price": "NT$ 12,900"},
+                        {"connect":"Wi-Fi + 行動網路", "price": "NT$ 17,200"}
+                    ]
                 }
-            ]
+            }
         }
     },
     "watch": {
@@ -145,18 +158,29 @@
                     "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MXTR2_VW_34FR+watch-40-alum-spacegray-nc-6s_VW_34FR_WF_CO_GEO_TW+watch-face-40-belgium6s_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1623798173000,1601922171000,1623870395000"
                 }
             ],
-            "storage": [
+            "storage": 
+            {
+                "sm":
                 {
-                    "gb": "40 公釐",
-                    "desc": "適合手腕圍 130–200 公釐。",
-                    "price": "NT$ 12,900"
+                    "item" : "40 公釐",
+                    "price": "NT$ 12,900",
+                    "connectivity" :
+                    [
+                        {"connect":"GPS", "price": "NT$ 12,900"},
+                        {"connect":"GPS + 行動網路", "price": "NT$ 15,900"}
+                    ]
                 },
+                "md":
                 {
-                    "gb": "44 公釐",
-                    "desc": "適合手腕圍 140–220 公釐。",
-                    "price": "NT$ 13,900"
+                    "item" : "44 公釐",
+                    "price": "NT$ 13,900",
+                    "connectivity" :
+                    [
+                        {"connect":"GPS", "price": "NT$ 13,900"},
+                        {"connect":"GPS + 行動網路", "price": "NT$ 16,900"}
+                    ]
                 }
-            ]
+            }
         }
     }
 }
