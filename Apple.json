@@ -35,15 +35,15 @@
             ],
             "storage": [
                 {
-                    "gb": "128 GB²",
+                    "size": "128 GB²",
                     "price": "NT$ 33,900"
                 },
                 {
-                    "gb": "256 GB²",
+                    "size": "256 GB²",
                     "price": "NT$ 37,400"
                 },
                 {
-                    "gb": "512 GB²",
+                    "size": "512 GB²",
                     "price": "NT$ 44,400"
                 }
             ]
@@ -83,15 +83,15 @@
             ],
             "storage": [
                 {
-                    "gb": "128 GB²",
+                    "size": "128 GB²",
                     "price": "NT$ 37,900"
                 },
                 {
-                    "gb": "256 GB²",
+                    "size": "256 GB²",
                     "price": "NT$ 41,400"
                 },
                 {
-                    "gb": "512 GB²",
+                    "size": "512 GB²",
                     "price": "NT$ 48,400"
                 }
             ]
@@ -127,7 +127,7 @@
             {
                 "32":
                 {
-                    "item" : "32 GB²",
+                    "size" : "32 GB²",
                     "price": "NT$ 9,900",
                     "connectivity" :
                     [
@@ -137,7 +137,7 @@
                 },
                 "128":
                 {
-                    "item" : "128 GB²",
+                    "size" : "128 GB²",
                     "price": "NT$ 12,900",
                     "connectivity" :
                     [
@@ -178,7 +178,7 @@
             {
                 "sm":
                 {
-                    "item" : "40 公釐",
+                    "size" : "40 公釐",
                     "price": "NT$ 12,900",
                     "connectivity" :
                     [
@@ -188,7 +188,7 @@
                 },
                 "md":
                 {
-                    "item" : "44 公釐",
+                    "size" : "44 公釐",
                     "price": "NT$ 13,900",
                     "connectivity" :
                     [
