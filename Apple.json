@@ -143,22 +143,22 @@
             },
             "appearance": [
                 {
-                    "color": "紐西蘭版",
+                    "color": "暗櫻桃色",
                     "cEng":"NZ",
-                    "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MXUW2_SW_COLOR?wid=32&hei=32&fmt=jpeg&qlt=95&.v=1623443463000",
-                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MXU82_VW_34FR+watch-40-alum-spacegray-nc-6s_VW_34FR_WF_CO_GEO_TW+watch-face-40-newzealand6s_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1623798332000,1601922171000,1623910941000"
+                    "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ML3R3ref_SW_COLOR?wid=32&hei=32&fmt=jpeg&qlt=95&.v=1629943584000",
+                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ML3R3ref_VW_34FR+watch-40-alum-spacegray-nc-se_VW_34FR_WF_CO_GEO_TW?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1630364907000,1630713104000"
                 },
                 {
-                    "color": "澳洲版",
+                    "color": "彩虹版",
                     "cEng":"AU",
-                    "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MXUD2_SW_COLOR?wid=32&hei=32&fmt=jpeg&qlt=95&.v=1623443456000",
-                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MXTQ2_VW_34FR+watch-40-alum-spacegray-nc-6s_VW_34FR_WF_CO_GEO_TW+watch-face-40-australia6s_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1623798038000,1601922171000,1623870391000"
+                    "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MJX03ref_SW_COLOR?wid=32&hei=32&fmt=jpeg&qlt=95&.v=1619808588000",
+                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MJX03ref_VW_34FR+watch-40-alum-spacegray-nc-se_VW_34FR_WF_CO_GEO_TW+watch-face-41-braided-pride_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1619841295000,1630713104000,1633565881000"
                 },
                 {
-                    "color": "比利時版",
+                    "color": "玉米橙黃色",
                     "cEng":"BE",
-                    "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MXUE2_SW_COLOR?wid=32&hei=32&fmt=jpeg&qlt=95&.v=1623443456000",
-                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MXTR2_VW_34FR+watch-40-alum-spacegray-nc-6s_VW_34FR_WF_CO_GEO_TW+watch-face-40-belgium6s_VW_34FR_WF_CO?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1623798173000,1601922171000,1623870395000"
+                    "colorImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ML3A3ref_SW_COLOR?wid=32&hei=32&fmt=jpeg&qlt=95&.v=1629943584000",
+                    "itemImg": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ML3A3ref_VW_34FR+watch-40-alum-spacegray-nc-se_VW_34FR_WF_CO_GEO_TW?wid=700&hei=700&trim=1,0&fmt=p-jpg&qlt=95&.v=1630364909000,1630713104000"
                 }
             ],
             "storage": [
